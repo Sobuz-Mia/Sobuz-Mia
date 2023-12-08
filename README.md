@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-###Current Overview
+### Current Overview
 - 🌱 I’m currently learning "concepts in Redux and exploring new features in MongoDB"
 - 👯 I’m looking to collaborate on "Open source projects related to MEAN stack development."
 - 🤔 I’m looking for help with "Optimizing performance in Express.js and handling complex queries in MongoDB."
