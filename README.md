@@ -6,11 +6,10 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sobuz-Mia&theme=gruvbox)](https://git.io/streak-stats)
 
 ### Technology that i knows
-- Expertise:  HTML || CSS3 ||  TALIWIND CSS ||  REACT JS || REST API || MATERIAL UI || DAISY UI || FIREBASE .
-- Comfortable:  JAVASCRIPT || ES6 || EXPRESS JS || MONGODB || JWT.
-- Familiar:  NODE JS || NEXT JS || REDUX || TYPESCRIPT || MONGOOSE.
-- Tools: GITHUB || VS CODE || NPM || VERCEL || NETLIFY || VITE || GIT || STRIPE || CHATGPT || CHROME DEV TOOLS.
-
+- Frontend: React, ES6, React Router, Next.js, Material Ui, Daisy Ui, Tailwind css
+- Backend: Express.js, Node.js
+- Database: MongoDB
+- Authentication: JWT, Firebase
 
 ### Current Overview
 - 🌱 I’m currently learning "concepts in Redux and exploring new features in MongoDB"
