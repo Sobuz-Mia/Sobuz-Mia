@@ -1,4 +1,5 @@
-### Hi there 👋
+# 🚀 Junior MERN Stack Web Developer 
+
 ![Profile Banner](banner.jpg)
 ### Current Stats
 
@@ -18,4 +19,8 @@
 - 💬 Ask me about REACT || JAVASCRIPT || ES6 || REACT ROUTER || NEXT JS || NODE JS || MONGODB 
 - 📫 How to reach me: "Feel free to reach out to me via email at [sobuz.info0298@gmail.com] or connect with me on LinkedIn [https://www.linkedin.com/in/sobuz-mia/]."
 - ⚡ Fun fact: "I enjoy Explore new libraries and frameworks in my free time."
+
+#Skills
+
+[![My Skills](https://skillicons.dev/icons?i=react,js,mongodb,materialui,express,nodejs)](https://skillicons.dev)
 
