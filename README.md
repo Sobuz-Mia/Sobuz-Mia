@@ -1,4 +1,9 @@
 ### Hi there 👋
+
+### Current Stats
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sobuz-Mia&theme=gruvbox)](https://git.io/streak-stats)
+
 ### Technology that i knows
 - Expertise:  HTML || CSS3 ||  TALIWIND CSS ||  REACT JS || REST API || MATERIAL UI || DAISY UI || FIREBASE .
 - Comfortable:  JAVASCRIPT || ES6 || EXPRESS JS || MONGODB || JWT.
