@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![Profile Banner](banner.jpg)
 ### Current Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sobuz-Mia&theme=gruvbox)](https://git.io/streak-stats)
