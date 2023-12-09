@@ -13,6 +13,7 @@
 - Backend: Express.js, Node.js
 - Database: MongoDB
 - Authentication: JWT, Firebase
+- Payment-Gateway: Stripe, SSLCOMMERZ
 
 ## Current Overview
 
