@@ -1,5 +1,6 @@
-# 🚀 Junior MERN Stack Web Developer 
+<!-- # 🚀 Junior MERN Stack Web Developer  -->
 
+<div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Web+Developer;Front-End+Developer;React+Js+Developer;Mern+Stack+Developer" alt="Typing SVG" /></a></div>
 
 ![Profile Banner](banner.jpg)
 
